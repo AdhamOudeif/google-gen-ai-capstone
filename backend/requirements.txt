@@ -1,0 +1,18 @@
+google-genai==1.7.0
+markdown-it-py==3.0.0
+python-dotenv==1.0.1
+streamlit==1.44.1
+
+# Data processing
+langdetect==1.0.9
+emoji==2.14.1
+scikit-learn==1.6.1
+
+# LangChain/LangGraph
+langgraph==0.3.21
+langchain-google-genai==2.1.2
+langgraph-prebuilt==0.1.7
+langchain-core==0.3.51
+langchain-community==0.3.21
+google-api-python-client==2.166.0
+pyperclip==1.9.0
