@@ -3,6 +3,7 @@ ______________________________________________
 # 📺 YouTube Comment Analysis and Video Idea Generator
 
 This project uses **Google’s Generative AI (Gemini)** to analyze YouTube comments and suggest potential next video ideas for content creators. It’s designed as an intelligent assistant that helps creators understand their audience and spark content inspiration.
+![image](https://github.com/user-attachments/assets/9f034fbd-0166-48b6-98e8-6e0a89b09846)
 
 ---
 
