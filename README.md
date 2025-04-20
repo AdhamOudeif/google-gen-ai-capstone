@@ -253,8 +253,6 @@ Contributions welcome! Just fork, commit, and open a pull request. Make sure you
 [MIT License](LICENSE)
 
 ---
-
-Made with 💡 by [Your Name or Team]
 ```
 
 ---
